@@ -1,0 +1,10 @@
+.Selected{
+    background-color: #f56d6d;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    overflow-x: scroll;
+  }
+  
